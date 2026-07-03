@@ -1,0 +1,3 @@
+token - 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 - used to commit code in git
+
+URL - https://ganeshsofttech.github.io/shopmart-app/
