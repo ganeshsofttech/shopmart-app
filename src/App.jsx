@@ -5,7 +5,7 @@ import About from "./component/About";
 import Contact from "./component/Contact";
 
 function App() {
-  const [currentPage, setCurrentPage] = useState("home");
+  const [currentPage, setCurrentPage] = useState("home"); //set initial value of current page as Home
 
   const renderPage = () => {
     switch (currentPage) {
