@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import Header from "./component/Header";
-import Home from "./component/Home";
-import About from "./component/About";
-import Contact from "./component/Contact";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
 
 function App() {
   const [currentPage, setCurrentPage] = useState("home"); //set initial value of current page as Home
